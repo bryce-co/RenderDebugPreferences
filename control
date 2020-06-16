@@ -1,0 +1,9 @@
+Package: co.bryce.render-debug-preferences
+Name: Render Debug Preferences
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Modify Render Debug flags from iOS Sttings
+Maintainer: Bryce Pauken
+Author: Bryce Pauken
+Section: System
+Tag: role::hacker
